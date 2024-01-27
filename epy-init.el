@@ -1,4 +1,4 @@
-;; This file is a great big shortcut for all the features contained in emacs-for-python
+;;#This file is a great big shortcut for all the features contained in emacs-for-python
 
 ;; Trick to get the filename of the installation directory
 (defconst epy-install-dir
@@ -19,3 +19,4 @@
 
 
 (provide 'epy-init)
+ 
